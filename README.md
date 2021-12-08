@@ -9,3 +9,5 @@ gui for rling(https://github.com/Cynosureprime/rling)
 - Ltc: **MRGWKyuPV6YQ42Jh4BVgNGHBuSQrXsmkfA**
 - Eth or Bsc: **0x3d5Dbc0E218D0084Ce755803724F614ea70191F6**
 - Xmr: **8C1CpeKGzwhF9pAL3HamhoCLWReLwntNjELJKAqWg4pXgUDW8GLFnW2VdWz9NJXPSVQUjf1CvpcC1gtNVWf74RoW5AUjZiH**
+## Virustotal
+- rling: https://www.virustotal.com/gui/file/aeb8c18845a4a878b003a50cff76660bb33efa6fd5657656b63452d1b622ddad?nocache=1
