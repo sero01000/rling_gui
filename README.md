@@ -1,2 +1,11 @@
 # rling_gui
 gui for rling(https://github.com/Cynosureprime/rling)
+
+![Logo](https://siasky.net/KADl9aGyv8imEEL-t-Tl3xsJFxe1vFC4H8gsAhrgwH5jwg)
+
+## Donate
+- BTC: **1HXYcDDZed3ei9Ndm9Au65ZfoCqubEEvku**
+- Btc1: **bc1q0pt4mpdawt05n8dpyzhkxzqr9cx78w6ghq3qtp**
+- Ltc: **MRGWKyuPV6YQ42Jh4BVgNGHBuSQrXsmkfA**
+- Eth or Bsc: **0x3d5Dbc0E218D0084Ce755803724F614ea70191F6**
+- Xmr: **8C1CpeKGzwhF9pAL3HamhoCLWReLwntNjELJKAqWg4pXgUDW8GLFnW2VdWz9NJXPSVQUjf1CvpcC1gtNVWf74RoW5AUjZiH**
