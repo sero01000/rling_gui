@@ -11,3 +11,4 @@ gui for rling(https://github.com/Cynosureprime/rling)
 - Xmr: **8C1CpeKGzwhF9pAL3HamhoCLWReLwntNjELJKAqWg4pXgUDW8GLFnW2VdWz9NJXPSVQUjf1CvpcC1gtNVWf74RoW5AUjZiH**
 ## Virustotal
 - rling: https://www.virustotal.com/gui/file/aeb8c18845a4a878b003a50cff76660bb33efa6fd5657656b63452d1b622ddad?nocache=1
+- rling_gui release: https://www.virustotal.com/gui/file/f4cd42c48fd08bac3d42602f79e88087cd8e2b0b42f8f73103a0804c218187b3?nocache=1
