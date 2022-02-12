@@ -4,16 +4,28 @@ use std::fs::File;
 
 //Run cmd with arguments
 //return result string(IBM866 encoding in windows cmd)
-pub fn cmd_execute(args:Vec<String>)->Result<String,std::io::Error>{
-    let output=std::process::Command::new("cmd")
+// pub fn cmd_execute(args:Vec<String>)->Result<String,std::io::Error>{
+//     let output=std::process::Command::new("cmd")
+//         .args(args)
+//         .output()
+//         .expect("failed to execute process");
+//     let (cow, _encoding_used, had_errors) = IBM866.decode(&output.stdout);
+//     match had_errors {
+//         true => Err(std::io::Error::new(std::io::ErrorKind::Other, "Encoding error")),
+//         false => Ok(cow.into_owned()),
+//     }
+// }
+
+pub fn cmd_execute2(programm:&str,args:Vec<String>)->String{
+    println!("{:?}", args);
+    let output=std::process::Command::new(programm)
         .args(args)
         .output()
         .expect("failed to execute process");
-    let (cow, _encoding_used, had_errors) = IBM866.decode(&output.stdout);
-    match had_errors {
-        true => Err(std::io::Error::new(std::io::ErrorKind::Other, "Encoding error")),
-        false => Ok(cow.into_owned()),
-    }
+    let (errors,_,_had_errors1)=IBM866.decode(&output.stderr);
+    let (cow, _encoding_used, _had_errors) = IBM866.decode(&output.stdout);
+    let result=format!("{}\n{}", errors,cow);
+    result
 }
 
 pub fn check_files_in_subfolder_log(dir_selected:&str)->Result<usize,std::io::Error>{
