@@ -4,6 +4,13 @@ gui for rling(https://github.com/Cynosureprime/rling)
 ![Logo](https://siasky.net/KADl9aGyv8imEEL-t-Tl3xsJFxe1vFC4H8gsAhrgwH5jwg)
 ![Logo](https://siasky.net/OADzZjgLK9yOIEjYOXAhEaoWJcJwzG5kbIfHQ19bZJThOQ)
 
+Добавлена статистика:
+✅Количество найденных дублей в каждом конкретном файле
+✅Количество дублей всего
+✅Затраченное время и тд.
+
+💢 не работает если в пути присутствуют русские символы
+
 ## Donate
 - BTC: **1HXYcDDZed3ei9Ndm9Au65ZfoCqubEEvku**
 - Btc1: **bc1q0pt4mpdawt05n8dpyzhkxzqr9cx78w6ghq3qtp**
