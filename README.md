@@ -2,6 +2,7 @@
 gui for rling(https://github.com/Cynosureprime/rling)
 
 ![Logo](https://siasky.net/KADl9aGyv8imEEL-t-Tl3xsJFxe1vFC4H8gsAhrgwH5jwg)
+![Logo](https://siasky.net/OADzZjgLK9yOIEjYOXAhEaoWJcJwzG5kbIfHQ19bZJThOQ)
 
 ## Donate
 - BTC: **1HXYcDDZed3ei9Ndm9Au65ZfoCqubEEvku**
